@@ -1,7 +1,5 @@
 
 private void getOut() {
-int y = 11;
+int y = 10;
         }
-private void getIn() {
-}
 
