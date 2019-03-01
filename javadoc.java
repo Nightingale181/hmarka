@@ -1,6 +1,6 @@
 
 private void getOut() {
-int y = 11;
+int y = 0;
 }
 
 
