@@ -1,1 +1,2 @@
-//Blahov Vladyslav
+private void getIn() {
+}
