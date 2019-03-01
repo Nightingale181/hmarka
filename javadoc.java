@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-private void getOut{
+private void getOut() {
 
         }
 =======
